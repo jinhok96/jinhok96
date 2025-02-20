@@ -8,7 +8,7 @@
 ---
 
 ## 🛠 기술 스택
-- **프론트엔드:** HTML/CSS, JavaScript, React, Next.js, TypeScript, TailwindCSS  
+- **프론트엔드:** HTML/CSS, JavaScript, TypeScript, React, Next.js, TailwindCSS  
 - **디자인:** Figma  
 - **협업 도구:** Git, Notion, JIRA  
 - **배포:** Vercel  
