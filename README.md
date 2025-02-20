@@ -23,7 +23,7 @@
 - **기술:**  
   - Next.js App Router
   - Typescript
-  - Tailwind CSS
+  - TailwindCSS
   - Tanstack Query
 - **링크:**  
   - [배포 페이지](https://www.trablock.site/)  
