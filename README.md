@@ -9,7 +9,7 @@
 ---
 
 ## 🛠 기술 스택
-- **프론트엔드:** HTML/CSS, JavaScript, TypeScript, React, Next.js, TailwindCSS  
+- **프론트엔드:** HTML/CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS  
 - **디자인:** Figma  
 - **협업 도구:** Git, JIRA  
 - **배포:** Vercel  
@@ -24,7 +24,7 @@
 - **기술:**  
   - Next.js App Router
   - Typescript
-  - TailwindCSS
+  - Tailwind CSS
   - Tanstack Query
 - **링크:**  
   - [배포 페이지](https://www.trablock.site/)  
