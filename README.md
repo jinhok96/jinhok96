@@ -83,7 +83,7 @@
 - **설명:** Next.js 16 기반 개인 포트폴리오 & 블로그 웹사이트
 - **기술:** Next.js, TypeScript, Tailwind CSS, Zustand, Vitest, Turborepo
 - **링크:**
-  - [웹사이트](https://jinho-blog-web.vercel.app/)
+  - [웹사이트](https://jinho-blog.com)
   - [GitHub](https://github.com/jinhok96/jinho-blog)
 - **주요 내용:**
   - Turborepo 모노레포 구조 설계, 기능별 패키지 분리 (웹, MDX 처리, 타입 안전 라우트, 썸네일 생성, 공유 타입)
