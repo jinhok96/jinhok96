@@ -1,11 +1,5 @@
 # 강진호 (Kang Jinho)
 
-디자인을 이해하는 프론트엔드 개발자 강진호입니다.
-
-시각디자인과 소프트웨어를 복수전공하고, 트립머니에서 UI/UX 디자인 및 프론트엔드 개발 직무를 담당했습니다. 두 역할을 실무에서 함께 다루며 개발 단계를 고려한 디자인 시스템을 설계해 디자인-개발 간 정합성을 높였습니다. 프론트엔드 전문성을 심화하면서, 디자인과 개발 양쪽을 이해하는 강점으로 완성도 높은 사용자 경험을 만드는 개발자로 성장하고 싶습니다.
-
----
-
 ## 🛠 기술 스택
 - **프론트엔드:** HTML/CSS, JavaScript, TypeScript, React, Next.js, Vue.js, Sass, styled-components, Tailwind CSS
 - **라이브러리:** React Query, React Hook Form
@@ -60,6 +54,19 @@
   - SSR 및 서버-클라이언트 캐시 공유로 데이터 일관성 확보 및 초기 로드 속도 향상
   - 라이트/다크 모드 지원
 
+### **포트폴리오 & 블로그 웹사이트**
+- **기간:** 2025.11 ~ 2026.02
+- **설명:** Next.js 16 기반 개인 포트폴리오 & 블로그 웹사이트
+- **기술:** Next.js, TypeScript, Tailwind CSS, Zustand, Vitest, Turborepo
+- **링크:**
+  - [웹사이트](https://jinho-blog.com)
+  - [GitHub](https://github.com/jinhok96/jinho-blog)
+- **주요 내용:**
+  - Turborepo 모노레포 구조 설계, 기능별 패키지 분리 (웹, MDX 처리, 타입 안전 라우트, 썸네일 생성, 공유 타입)
+  - 빌드 타임 콘텐츠 생성 및 SSG 렌더링으로 빠른 로딩 속도 확보
+  - Vitest + GitHub Actions 테스트 CI 구축, 커버리지 93% 이상 달성
+  - RSS 피드, 사이트맵, JSON-LD, 오픈그래프 제공
+
 ### **트립머니 키오스크 앱 마이그레이션**
 - **기간:** 2026.01 ~ 2026.02
 - **설명:** Vue 3 + TypeScript + Vite 마이그레이션 및 리팩터링
@@ -78,28 +85,6 @@
   - 컬러·폰트 디자인 토큰 정의, 컴포넌트 단위 디자인 시스템 구축
   - 27인치 디스플레이 기준 최소 폰트 크기 24px, 주요 UI 명도 대비 3:1 준수해 접근성 확보
 
-### **포트폴리오 & 블로그 웹사이트**
-- **기간:** 2025.11 ~ 2026.02
-- **설명:** Next.js 16 기반 개인 포트폴리오 & 블로그 웹사이트
-- **기술:** Next.js, TypeScript, Tailwind CSS, Zustand, Vitest, Turborepo
-- **링크:**
-  - [웹사이트](https://jinho-blog.com)
-  - [GitHub](https://github.com/jinhok96/jinho-blog)
-- **주요 내용:**
-  - Turborepo 모노레포 구조 설계, 기능별 패키지 분리 (웹, MDX 처리, 타입 안전 라우트, 썸네일 생성, 공유 타입)
-  - 빌드 타임 콘텐츠 생성 및 SSG 렌더링으로 빠른 로딩 속도 확보
-  - Vitest + GitHub Actions 테스트 CI 구축, 커버리지 93% 이상 달성
-  - RSS 피드, 사이트맵, JSON-LD, 오픈그래프 제공
-
-### **Trablock 개선**
-- **기간:** 2024.07 ~ 2025.02
-- **설명:** 기존 Trablock 프로젝트 리팩토링
-- **기술:** Next.js, TypeScript, Tailwind CSS, React Query, Google Maps
-- **주요 내용:**
-  - 백엔드 Redis 캐시에 맞춰 도메인별 데이터 캐시 시간 분리
-  - SSR 전환으로 초기 렌더링 속도 개선, 레이아웃 시프트 최소화
-  - 반응형 레이아웃 및 모바일 터치 동작 호환성 개선
-
 ### **Trablock**
 - **기간:** 2024.05 ~ 2024.06
 - **설명:** 여행 계획을 쉽고 편하게 작성하고 공유할 수 있는 웹 플랫폼 (코드잇 부트캠프 팀 프로젝트)
@@ -109,6 +94,15 @@
   - Next.js App Router SSR, React Query, TailwindCSS 등 핵심 기술 선행 학습 후 팀원 교육
   - Jira Automation 도입으로 이슈 티켓 분류 자동화, 불필요한 진행도 확인 커뮤니케이션 제거
   - 디자이너와 함께 개발자 친화적 디자인 구조 설계, 주요 컴포넌트 UI/UX 디자인 참여
+
+### **Trablock 개선**
+- **기간:** 2024.07 ~ 2025.02
+- **설명:** 기존 Trablock 프로젝트 리팩토링
+- **기술:** Next.js, TypeScript, Tailwind CSS, React Query, Google Maps
+- **주요 내용:**
+  - 백엔드 Redis 캐시에 맞춰 도메인별 데이터 캐시 시간 분리
+  - SSR 전환으로 초기 렌더링 속도 개선, 레이아웃 시프트 최소화
+  - 반응형 레이아웃 및 모바일 터치 동작 호환성 개선
 
 ---
 
